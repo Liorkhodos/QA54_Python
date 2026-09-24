@@ -71,6 +71,4 @@ def check_password(password: str):
 
     return False
 
-print(check_password("python123"))
-
-
+print(check_password("python 123"))
