@@ -42,7 +42,7 @@ print(load_test_ids("tests.txt"))
 # QA-1002,FAILED,230
 # QA-1003,PASSED,150
 # Напишите функцию get_test_statistics(filename)
-#
+
 # Функция должна:
 # 1.⁠ ⁠Прочитать данные из CSV.
 # 2.⁠ ⁠Посчитать общее количество тестов.
